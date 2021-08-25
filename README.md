@@ -1,14 +1,21 @@
 ﻿# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center">
 
-## Daniel Rocha
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danielbrazrocha/)](https://www.linkedin.com/in/danielbrazrocha/)   [![Mail Me!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dgustavo@id.uff.br)](mailto:dgustavo@id.uff.br)
+<img align="right"  src="https://github.com/marcelelvis/marcelelvis/blob/main/foto.png" width="425px"/>
+ 
+# 👨🏻‍💻 Daniel Rocha   [![LinkedIn Badge](https://img.shields.io/badge/-Daniel%20Rocha-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danielbrazrocha)](https://www.linkedin.com/in/danielbrazrocha) [![Gmail Badge](https://img.shields.io/badge/-dgustavo@id.uff.br-c13232?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgustavo@id.uff.br)](mailto:dgustavo@id.uff.br)
+  
 
 
 
-## My name is Daniel 👨‍💻. I'm a FrontEnd Web Developer, an IT Student and Enthusiast. I’m currently learning React.JS|React Native. 
+- 🌱 FrontEnd Web Developer, IT Student and Enthusiast.
+- 💙 Learning: React.JS | React Native.
+- 🔍 Looking for doing something great to make the world a better place. 🦾🌎🚀
 
-## I'm looking for doing something great to make the world a better place. 🦾🌎🚀¿
+
+###
+##
+###
+
 
 #
 ## 🔧 Technologies and tools
