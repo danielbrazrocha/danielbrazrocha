@@ -7,8 +7,8 @@
 
 
 
-- 🌱 FrontEnd Web Developer, IT Student and Enthusiast.
-- 💙 Learning: React.JS | React Native.
+- 🌱 Software Engineer, IT Student and Enthusiast.
+- 💙 Learning: Node.JS | Typescript | AWS | Microsservices.
 - 🔍 Looking for doing something great to make the world a better place. 🦾🌎🚀
 
 
