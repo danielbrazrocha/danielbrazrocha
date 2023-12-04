@@ -7,7 +7,7 @@
 
 
 
-- 🌱 Agronomist and Software Engineer with a passion for creating innovative solutions
+- 🌱 Software Engineer with a passion for creating innovative solutions
 - 💙 Node.JS | Typescript | React | React Native | AWS | Microsservices
 - 🔍 Looking to develop impactful and sustainable software applications that make a positive difference in the world 🌎🚀
 
